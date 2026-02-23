@@ -5,12 +5,14 @@
     {
       "id": "melon",
       "name": "Adventure Melon",
-      "url": "https://wowtbc.net/sprunkin/adventure-melon/index.html"
+      "url": "https://wowtbc.net/sprunkin/adventure-melon/index.html",
+      "image": "https://playminigames.net/content/gameimagecontent/html5_sprunki-game-original_4458b8376b084fb4b0d0c5bfd7dc4d0e.png"
     },
     {
       "id": "obby",
       "name": "Obby Only Up Challenge",
-      "url": "https://storage.y8.com/y8-studio/unity_webgl/Playgama/obby_only_up_challenge/?key=12407843&value=271473"
+      "url": "https://storage.y8.com/y8-studio/unity_webgl/Playgama/obby_only_up_challenge/?key=12407843&value=271473",
+      "image": "https://cdn2.y8.com/cloudimage/397015/file/w180h135_webp-9b40a6102f7307b915554d14959c674d.webp"
     }
   ]
 }
