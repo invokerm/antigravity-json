@@ -3,6 +3,12 @@
   "updated": "2026-02-23",
   "mods": [
     {
+      "id": "island-expander",
+      "name": "Island Expander",
+      "url": "https://st.8games.net/14/igra-island-expander/",
+      "image": "https://i.postimg.cc/DyR9TXXR/Whisk-94ac69a8ce1d5829a6247114107217e7dr.png"
+    },
+    {
       "id": "melon",
       "name": "Adventure Melon",
       "url": "https://wowtbc.net/sprunkin/adventure-melon/index.html",
@@ -13,12 +19,6 @@
       "name": "Obby Only Up Challenge",
       "url": "https://storage.y8.com/y8-studio/unity_webgl/Playgama/obby_only_up_challenge/?key=12407843&value=271473",
       "image": "https://i.postimg.cc/ydFZnnmG/image-processing20260223-2861417-a242oo.webp"
-    },
-    {
-      "id": "island-expander",
-      "name": "Island Expander",
-      "url": "https://st.8games.net/14/igra-island-expander/",
-      "image": "https://i.postimg.cc/DyR9TXXR/Whisk-94ac69a8ce1d5829a6247114107217e7dr.png"
     }
   ]
 }
